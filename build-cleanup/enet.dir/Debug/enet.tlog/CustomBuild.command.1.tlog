@@ -1,0 +1,10 @@
+^D:\ACADEMYOFARTUNIVERCITY\SPRING SHOW 2026\LAME PIGEON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon" "-BD:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup" --check-stamp-file "D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

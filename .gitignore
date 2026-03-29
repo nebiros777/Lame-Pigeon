@@ -1,0 +1,63 @@
+# IDE
+.idea/
+.vs/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.ipch
+
+# ReSharper / Rider
+_ReSharper.Caches/
+riderModule.iml
+
+# Package folders
+/packages/
+
+# Native build outputs
+bin/
+obj/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.recipe
+*.lastbuildstate
+*.tlog
+
+# Logs
+*.log
+
+# Unreal generated
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+
+# CMake / Ninja build trees
+/build/
+/build-*/
+/build-cleanup/
+/cmake-build-*/
+/out/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+build.ninja
+.ninja_log
+.ninja_deps
+CMakeFiles/
+Testing/
+
+# Local generated docs
+SubmissionVideoScript.md
+
+# Local plugin tooling
+DemoProject/ReplicationProject/Plugins/Developer/RiderLink/

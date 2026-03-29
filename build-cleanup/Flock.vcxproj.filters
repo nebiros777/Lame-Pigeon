@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\AcademyOfArtUnivercity\Spring Show 2026\Lame Pigeon\Flock\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\AcademyOfArtUnivercity\Spring Show 2026\Lame Pigeon\Carrier\private\Carrier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\AcademyOfArtUnivercity\Spring Show 2026\Lame Pigeon\Carrier\public\Carrier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\AcademyOfArtUnivercity\Spring Show 2026\Lame Pigeon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E4DC76DC-2263-3703-BD88-1D14DF3AA581}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C0BA9542-C7F1-32C0-A8ED-61724B0ADEB2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

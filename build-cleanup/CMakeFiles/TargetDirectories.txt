@@ -1,0 +1,6 @@
+D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/enet.dir
+D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/Dovecote.dir
+D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/Carrier.dir
+D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/Flock.dir
+D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/ALL_BUILD.dir
+D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/CMakeFiles/ZERO_CHECK.dir

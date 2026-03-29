@@ -1,0 +1,10 @@
+^D:\ACADEMYOFARTUNIVERCITY\SPRING SHOW 2026\LAME PIGEON\BUILD-CLEANUP\CMAKEFILES\DBFF599BB1821238BC6A85CC12CEA88D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon" "-BD:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/AcademyOfArtUnivercity/Spring Show 2026/Lame Pigeon/build-cleanup/LamePigeon.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

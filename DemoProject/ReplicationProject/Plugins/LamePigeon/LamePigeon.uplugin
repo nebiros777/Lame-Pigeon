@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LamePigeon Relay",
+	"Description": "Relay replication via ENet without a server build",
+	"Category": "Networking",
+	"CreatedBy": "Igor Matiushin",
+	"CanContainContent": false,
+	"Modules": [
+		{
+			"Name": "LamePigeon",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

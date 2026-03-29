@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\AcademyOfArtUnivercity\Spring Show 2026\Lame Pigeon\build-cleanup\CMakeFiles\dbff599bb1821238bc6a85cc12cea88d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2F90E420-358A-3177-984E-F14EB3E9E3C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
