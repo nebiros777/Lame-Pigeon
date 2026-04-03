@@ -13,6 +13,14 @@ Unreal dedicated servers are heavy and inflexible for rapid iteration.
 This project provides a lightweight authoritative multiplayer server
 that supports 100+ clients without requiring UE server builds.
 
+## What makes it different
+
+- Not a black-box solution
+- No Unreal dedicated server build required
+- Fully editable server logic
+- Engine-agnostic client layer
+- Designed for flexibility over rigid frameworks
+
 ## Support the project
 If you find this useful, you can support development via the ❤️ Sponsor button on GitHub.
 
