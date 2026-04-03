@@ -1,3 +1,5 @@
+##What is it
+
 Lame Pigeon is a multiplayer framework for character replication, room-based
 visibility, and client-side interaction prediction. It was made first of all
 for students and for the wider game development community. Right now there is
@@ -22,7 +24,10 @@ that supports 100+ clients without requiring UE server builds.
 - Designed for flexibility over rigid frameworks
 
 ## Support the project
+
 If you find this useful, you can support development via the ❤️ Sponsor button on GitHub.
+
+## Details
 
 The project has three main parts. Dovecote is the relay server. Carrier is the
 client networking layer and protocol implementation. The Unreal plugin embeds
