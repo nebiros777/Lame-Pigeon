@@ -6,6 +6,9 @@ open code, and freedom to inspect and change the networking logic. The closest
 relatives are commercial products such as Strix and Photon Fusion, but they do
 not give the same freedom for debugging and direct control over the data flow.
 
+## Support the project
+If you find this useful, you can support development via the ❤️ Sponsor button on GitHub.
+
 The project has three main parts. Dovecote is the relay server. Carrier is the
 client networking layer and protocol implementation. The Unreal plugin embeds
 Carrier and exposes it to the engine. The Unreal demo project is the main usage
