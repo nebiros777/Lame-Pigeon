@@ -6,6 +6,13 @@ open code, and freedom to inspect and change the networking logic. The closest
 relatives are commercial products such as Strix and Photon Fusion, but they do
 not give the same freedom for debugging and direct control over the data flow.
 
+## Why this exists
+
+Unreal dedicated servers are heavy and inflexible for rapid iteration.
+
+This project provides a lightweight authoritative multiplayer server
+that supports 100+ clients without requiring UE server builds.
+
 ## Support the project
 If you find this useful, you can support development via the ❤️ Sponsor button on GitHub.
 
