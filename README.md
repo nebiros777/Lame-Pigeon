@@ -12,7 +12,7 @@ not give the same freedom for debugging and direct control over the data flow.
 
 Unreal dedicated servers are heavy and inflexible for rapid iteration.
 
-This project provides a lightweight authoritative multiplayer server
+This project provides a lightweight non-authoritative multiplayer server
 that supports 100+ clients without requiring UE server builds.
 
 ## What makes it different
